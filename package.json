@@ -1,0 +1,27 @@
+{
+  "name": "ts-aggregate",
+  "version": "0.1.0",
+  "description": "undefined",
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.x"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/madhums/ts-aggregate.git"
+  },
+  "keywords": [],
+  "author": "Madhusudhan Srinivasa <madhums8@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madhums/ts-aggregate/issues"
+  },
+  "homepage": "https://github.com/madhums/ts-aggregate",
+  "dependencies": {
+    "mongodb": "~2.0.35"
+  },
+  "devDependencies": {}
+}
