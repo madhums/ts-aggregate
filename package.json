@@ -1,7 +1,7 @@
 {
   "name": "ts-aggregate",
-  "version": "0.1.0",
-  "description": "undefined",
+  "version": "0.1.1",
+  "description": "A simple wrapper for aggregating time series data for mongodb.",
   "main": "index.js",
   "engines": {
     "node": ">=0.10.x"
