@@ -26,7 +26,6 @@
   "maxlen": 80,
   "curly": false,
   "node": true,
-  "es5": true,
   "esnext": true,
   "globals": {}
 }

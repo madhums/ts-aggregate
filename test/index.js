@@ -18,13 +18,14 @@ var options = {
       $lte: new Date('2015-07-01')
     }
   }
-}
+};
 
 /**
  * aggregate
  */
 
 aggregate(config, options, function (err, docs) {
+  if (err) return console.error(err);
   // done
   console.log(docs);
 });
